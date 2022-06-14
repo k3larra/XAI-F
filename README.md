@@ -1,2 +1,2 @@
 # XAI-F
-Information ewill be public related to ongoind work on papers.
+Information will shortly be public that relates to paper "More Sanity Checks for Saliency Maps".
