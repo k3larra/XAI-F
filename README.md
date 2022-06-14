@@ -1,2 +1,2 @@
 # XAI-F
-Information will shortly be public that relates to paper "More Sanity Checks for Saliency Maps".
+Information that relates to the paper "More Sanity Checks for Saliency Maps" will be aviable shortly.
