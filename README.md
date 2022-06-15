@@ -4,4 +4,7 @@ We built a web tool that was used by 5 + 25 humans to create saliency maps for t
 The human salience maps were then compared to saliency maps created by five ML models. 
 All code for this, for the exception of the web tool, can be found [here](Code_More_Sanity_Checks_for_Saliency_Maps.ipynb)
 [a relative link](other_file.md)
-<img width="632" alt="intro" src="https://user-images.githubusercontent.com/477262/173864658-4fcce9c4-3981-447a-a27e-c90c8e6b01a5.PNG">
+
+
+
+<img width="517" alt="marking_process" src="https://user-images.githubusercontent.com/477262/173865707-ef3ae42e-645c-4b91-9e99-6991b800445b.png">
